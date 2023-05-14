@@ -1,0 +1,6 @@
+cat /etc/os-release > ./tempFile
+bash -c "lsof | grep ~/tempFile"
+status
+chmod 777 ./tempFile
+cat ./tempFile
+exit

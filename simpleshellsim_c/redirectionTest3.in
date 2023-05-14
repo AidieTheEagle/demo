@@ -1,0 +1,1 @@
+echo hello > outputtest.out && echo world > outputtest2.out && echo hello world

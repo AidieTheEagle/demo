@@ -1,0 +1,2 @@
+cd testdir
+echo hello > anotherOutputTest.out

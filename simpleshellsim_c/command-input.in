@@ -1,0 +1,2 @@
+grep "string" < tests/file
+exit
